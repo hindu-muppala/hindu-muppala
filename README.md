@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hindu-muppala
-- 👀 I’m interested in tech development.
+- 👋 Hi, I’m hindu muppala
+- 👀 I’m interested in building applications.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on building websites.
 
