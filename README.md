@@ -1,7 +1,8 @@
 - 👋 Hi, I’m hindu muppala
 - 👀 I’m interested in building applications.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on building websites.
+- 🌱 I’m currently learning web development & devOops.
+- 💞️ I’m looking to collaborate on backend development and devOops.
+Loves does stuff from scratch.
 
 <!---
 hindu-muppala/hindu-muppala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
