@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hindu muppala
 - 👀 I’m interested in building applications.
-- 🌱 I’m currently learning web development & devOops.
-- 💞️ I’m looking to collaborate on backend development and devOops.
+- 🌱 I’m currently learning web development & DevOops.
+- 💞️ I’m looking to collaborate on backend development and DevOops.
 Loves does stuff from scratch.
 
 <!---
