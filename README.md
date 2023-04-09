@@ -12,7 +12,7 @@
 Loves does stuff from scratch.
 # :hammer_and_pick:Tech Stacks
 <picture>
-<img alt="C" src="https://user-images.githubusercontent.com/120579608/230761082-ebde4f7c-054a-41eb-a4cd-3c87a4805ab9.png" width="50" height="70"/>
+<img alt="C" src="https://user-images.githubusercontent.com/120579608/230761082-ebde4f7c-054a-41eb-a4cd-3c87a4805ab9.png" width="60" height="70"/>
 </picture>
 <picture>
   <img alt="HTML" src="https://user-images.githubusercontent.com/120579608/230758867-e6fd5db8-7ec2-4aca-b737-1d7eb1791916.png" width="50" height="70"/>
@@ -39,9 +39,10 @@ Loves does stuff from scratch.
 <img alt="GO" src="https://user-images.githubusercontent.com/120579608/230760709-547d0782-2b78-4e4d-861f-f6cc08b51ace.png" width="50" height="70"/>
 </picture>
 <picture>
-<img alt="Node.js" src="https://user-images.githubusercontent.com/120579608/230760806-2e0f3ae3-d503-4a08-9828-7eaeb9724d9e.png" width="50" height="70"/>
+<img alt="Node.js" src="https://user-images.githubusercontent.com/120579608/230760806-2e0f3ae3-d503-4a08-9828-7eaeb9724d9e.png" width="60" height="70"/>
 </picture>
 <picture>
-<img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="50" height="70"/>
+<img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="60" height="70"/>
 </picture>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
