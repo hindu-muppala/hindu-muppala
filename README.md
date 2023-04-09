@@ -21,6 +21,9 @@ Loves does stuff from scratch.
  <img alt="CSS" src="https://user-images.githubusercontent.com/120579608/230758892-ac491c04-d40c-4dce-b239-fa4a7ae3f283.png" width="50" height="70"/>
 </picture>
 <picture>
+<img alt="BootStrap" src="https://user-images.githubusercontent.com/120579608/230761720-217937ae-7c58-46c9-831d-9f11a5651055.png" width="50" height="70"/>
+</picture>
+<picture>
   <img alt="JAVASCRIPT" src="https://user-images.githubusercontent.com/120579608/230760590-56691170-e4d5-4f58-ab49-38ca48de988a.png" width="60" height="70"/>
 </picture>
 <picture>
@@ -39,5 +42,6 @@ Loves does stuff from scratch.
 <img alt="Node.js" src="https://user-images.githubusercontent.com/120579608/230760806-2e0f3ae3-d503-4a08-9828-7eaeb9724d9e.png" width="50" height="70"/>
 </picture>
 <picture>
-<img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="" height=""/>
+<img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="50" height="70"/>
 </picture>
+
