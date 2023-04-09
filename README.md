@@ -39,10 +39,11 @@ Loves does stuff from scratch.
 <img alt="GO" src="https://user-images.githubusercontent.com/120579608/230760709-547d0782-2b78-4e4d-861f-f6cc08b51ace.png" width="50" height="70"/>
 </picture>
 <picture>
-<img alt="Node.js" src="https://user-images.githubusercontent.com/120579608/230760806-2e0f3ae3-d503-4a08-9828-7eaeb9724d9e.png" width="60" height="70"/>
+<img alt="Node.js" src="https://user-images.githubusercontent.com/120579608/230760806-2e0f3ae3-d503-4a08-9828-7eaeb9724d9e.png" width="80" height="90"/>
 </picture>
 <picture>
 <img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="60" height="70"/>
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats)
