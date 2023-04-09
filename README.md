@@ -45,7 +45,11 @@ Loves does stuff from scratch.
 <img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="60" height="70"/>
 </picture>
 
+```
+```
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindu-muppala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ```
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats)
