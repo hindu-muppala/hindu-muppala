@@ -4,10 +4,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/120579608/230760230-ef7837a0-f570-471e-bf4d-5d4b7869e237.png" />
 </p>
 
-- 👋 Hi, I’m hindu muppala
-- 👀 I’m interested in building applications.
-- 🌱 I’m currently learning web3.
-- 💞️ Ask anything about Java,Python,C,Node.js,Express.js
+- 👋 Hi, I’m hindu muppala. I'm developer.
+- 👀 I’m love pending my time in building applications.
+- 🌱 I’m currently learning web3 and doing projects on cryptography.
+- 💞️ Ask me anything about linux,java. And I love to learn any thing in depth.
 
 Loves does stuff from scratch.
 # :hammer_and_pick:Tech Stacks
