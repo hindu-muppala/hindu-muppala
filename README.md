@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m hindu muppala. I'm developer.
-- 👀 I’m love pending my time in building applications.
+- 👀 I’m love sending my time in building applications.
 - 🌱 I’m currently learning machine learning and doing projects on web development.
-- 💞️ Java,Linux are all time my favourite but I love all code stuff. And I love to learn any thing in depth.
+- 💞️ Java,Linux are all time my favourite.
 
 Loves does stuff from scratch.
 # :hammer_and_pick:Tech Stacks
