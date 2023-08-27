@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋!! This is Hindu Muppala</h1>
 
 
-- 👋 Hi, I’m hindu muppala. I'm developer.
+- 👋 Hi, I’m hindu muppala.
 - 👀 I’m love spending my time in building applications.
 - 🌱 I’m currently learning machine learning and doing projects on web development.
 - 💞️ Java,Linux are all time my favourite.
