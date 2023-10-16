@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning machine learning and doing projects on web development.
 - 💞️ Java,Linux are all time my favourite.
 
-Loves does stuff from scratch.
+Loves doing stuff from scratch.
 # :hammer_and_pick:Tech Stacks
 <picture>
 <img alt="C" src="https://user-images.githubusercontent.com/120579608/230761082-ebde4f7c-054a-41eb-a4cd-3c87a4805ab9.png" width="60" height="70"/>
