@@ -45,7 +45,7 @@ Loves doing stuff from scratch.
   <img alt="PostgreSql" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="50" height="70"/>
 </picture>
 <picture>
-  <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" width="60" height="70"/>
+  <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" width="50" height="100"/>
 </picture>
 
 
