@@ -51,9 +51,4 @@ Loves doing stuff from scratch.
 
 ```
 ```
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindu-muppala&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-```
-```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hindu-muppala)](https://github.com/anuraghazra/github-readme-stats)
