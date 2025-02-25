@@ -1,8 +1,10 @@
 <h1 align="center">Hello👋!! This is Hindu Muppala</h1>
 
 
-- 👋 Hi, I’m hindu muppala.
-- 🌱 I’m currently learning machine learning and doing projects on web development.
+- My interests in AI & ML in health care domain.
+- I am Infosys spring board AI/ML Intern.
+- Me in one line: Concentration is key to unlock secrets. I concentrate to get it.
+
 
 
 # :hammer_and_pick:Tech Stacks
