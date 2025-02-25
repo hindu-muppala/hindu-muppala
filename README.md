@@ -42,9 +42,6 @@
 <img alt="Docker" src="https://user-images.githubusercontent.com/120579608/230761156-86b2fdc9-d711-43d7-8ae8-355222561eda.png" width="60" height="70"/>
 </picture>
 <picture>
-  <img alt="PostgreSql" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="50" height="70"/>
-</picture>
-<picture>
   <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" width="100" height="50"/>
 </picture>
 
