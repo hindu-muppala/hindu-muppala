@@ -2,8 +2,8 @@
 
 
 - My interests in AI & ML in health care domain.
-- I am Infosys spring board AI/ML Intern.
-- Me in one line: Concentration is key to unlock secrets. I concentrate to get it.
+- I am former Accenture'25 intern and Infosys Springboard Intern'25
+
 
 
 
