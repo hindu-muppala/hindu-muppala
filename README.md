@@ -2,7 +2,7 @@
 
 
 - My interests in AI & ML in health care domain.
-- I am ex-Accenture'25 intern and ex-Infosys Springboard Intern'25
+- I am ex-Accenture'25 intern and ex-Infosys Springboard Intern'25 where I created meaningful impact.
 
 
 
