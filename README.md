@@ -1,8 +1,9 @@
 <h1 align="center">Hello👋!! This is Hindu Muppala</h1>
 
 
-- My interests is to create meaningful impact using datascience.
+- My interests is to create meaningful impact using machine learning.
 - I am ex-Accenture'25 intern and ex-Infosys Springboard Intern'25 where I created meaningful impact.
+- I am happy to connect for collaborations.
 
 
 
