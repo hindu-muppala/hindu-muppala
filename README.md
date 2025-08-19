@@ -7,7 +7,7 @@
 
 ### 🟦 IBM Datathon 2024  
 **Role:** Team Lead  
-- Implemented a data science solution for solving real-world social problems with the team.
+- Implemented a data science prototype for solving real-world social problems with the team.
 
 ### 🟩 CBIT Hacktoberfest Hackathon 2024  
 **Role:** Team Lead  
