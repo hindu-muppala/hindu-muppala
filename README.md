@@ -3,7 +3,23 @@
 - I am ex-Accenture'25 intern and ex-Infosys Springboard Intern'25 where I created meaningful impact.
 - I am happy to connect for collaborations for projects.
 
+## 🚀 Hackathon Experience  
 
+### 🟦 IBM Datathon 2024  
+**Role:** Team Lead  
+- Implemented a data science solution for solving real-world social problems with the team.  
+
+### 🟨 WWT All India Hackathon 2024  
+**Role:** Team Lead  
+- Developed a prototype for **farmer empowerment** and secured **3rd place**.  
+
+### 🟩 CBIT Hacktoberfest Hackathon 2024  
+**Role:** Team Lead  
+- Designed and developed a prototype for promoting **green sustainability** initiatives.  
+
+### 🟥 Adobe GenAI Hackathon 2024  
+**Role:** Team Lead  
+- Generated and curated data to address challenges in **GenAI image diffusion models**.  
 
 
 # :hammer_and_pick:Tech Stacks
