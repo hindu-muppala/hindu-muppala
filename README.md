@@ -6,11 +6,11 @@
 ## 🚀 Hackathon Experience  
 
 ### 🟦 IBM Datathon 2024  
-**Role:** Team Lead  
+
 - Implemented a data science prototype for solving real-world social problems with the team.
 
 ### 🟩 CBIT Hacktoberfest Hackathon 2024  
-**Role:** Team Lead  
+
 - Designed and developed a prototype for promoting **green sustainability** initiatives.  
 
 ### 🟨 WWT All India Hackathon 2023
@@ -18,7 +18,7 @@
 - Developed a prototype for **farmer empowerment** and secured **3rd place**.  
 
 ### 🟥 Adobe GenAI Hackathon 2023
-**Role:** Team Lead  
+ 
 - Generated and curated data to solve the GEN AI Image diffusion problem. 
 
 ## Skills
