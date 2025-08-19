@@ -19,7 +19,7 @@
 
 ### 🟥 Adobe GenAI Hackathon 2023
 **Role:** Team Lead  
-- Generated and curated data to address challenges in **GenAI image diffusion models**.  
+- Generated and curated data to solve the GEN AI Image diffusion problem. 
 
 
 # :hammer_and_pick:Tech Stacks
