@@ -7,7 +7,7 @@
 
 ### 🟦 IBM Datathon 2024  
 
-- Implemented a data science prototype for solving real-world social problems with the team.
+- Implemented a **data science prototype** for solving real-world social problems with the team.
 
 ### 🟩 CBIT Hacktoberfest Hackathon 2024  
 
@@ -15,16 +15,16 @@
 
 ### 🟨 WWT All India Hackathon 2023
 **Role:** Team Lead  
-- Developed a prototype for **farmer empowerment** and secured **3rd place**.  
+- Developed a prototype involves **RAG Chat Bot** for **farmer empowerment** and secured **3rd place**.  
 
 ### 🟥 Adobe GenAI Hackathon 2023
  
-- Generated and curated data to solve the GEN AI Image diffusion problem. 
+- Generated and curated data to solve the **GEN AI Image diffusion problem**. 
 
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, SQL, Java, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Pandas, Docker, Spark, Hadoop, Flask
+- **Frameworks & Libraries:** React, Node.js, Pandas, Docker, Spark, Hadoop, Flask, Pytorch
 - **Tools:** Git, GitHub, VS Code
 - **Other:** Data Science, Deep Learning
 
