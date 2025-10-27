@@ -5,6 +5,13 @@
 
 ## 🚀 Hackathon Experience  
 
+### AWS Hackathon 2025
+
+- Build the Chrome Extension Plugin.
+
+Project Repo link : https://github.com/TrueGuardianAI
+
+
 ### 🟦 IBM Datathon 2024  
 
 - Implemented a **data science prototype** for solving real-world social problems with the team.
