@@ -19,7 +19,11 @@ Project Repo link : https://github.com/TrueGuardianAI
 
 ### 🟩 CBIT Hacktoberfest Hackathon 2024  
 
-- Designed and developed a prototype for promoting **green sustainability** initiatives.  
+- Designed and developed a prototype for promoting **green sustainability** initiatives.
+
+### 🟥	SIH Hackathon 2023
+
+ - Developed web application backend by tree + graph computer science algorithm prototype for the children's career advisor
 
 ### 🟨 WWT All India Hackathon 2023
 **Role:** Team Lead  
