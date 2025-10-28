@@ -29,6 +29,16 @@ Project Repo link : https://github.com/TrueGuardianAI
  
 - Generated and curated data to solve the **GEN AI Image diffusion problem**. 
 
+
+### Data Related Work
+    
+- Designed query resolve chat bot, pest disease classification data science solutions in participation of WWT AII India Women Hackathon and stood third.   
+- Designed custom data for the urban land image classification in less than hour in participation of the Hacktoberfest'24 Hackathon.
+- Achieved top 94 in Kaggle Play Ground Series - 4 (Episode 5) where applied ensemble techniques to improve accuracy.
+- Achieved top 92 in Kaggle Playground Series - 4 (Episode 6), applied stratified random forest on imbalanced data to enhance model accuracy.
+- Designed custom data of curves to generate the curved curves from the uncurved curves for the Adobe GenAI Hackathon 2024.
+
+
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, SQL, Java, HTML, CSS
