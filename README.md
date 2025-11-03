@@ -1,8 +1,7 @@
 <h1 align="center">Hello👋!! This is Hindu Muppala</h1>
 
 - I'm ex-Accenture'25 intern and ex-Infosys Springboard Intern'25 where I created meaningful impact.
-- I'm happy to connect for working for the startup's to be part of the change.
-- I'm happy to connect for collaborations for projects .
+- I'm happy to connect for collaborations for projects.
 
 ## 🚀 Hackathon Experience  
 
