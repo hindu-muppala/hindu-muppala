@@ -1,1 +1,1 @@
-
+Computer Science student specializing in full-stack development and backend engineering, with hands-on experience in Django, React.js, REST APIs, SQL/NoSQL databases, and real-time systems using Socket.IO. Built collaborative and secure web applications and AI-based systems, with internship exposure to enterprise tools, Agile workflows, and database-driven solutions. Actively seeking entry-level software engineering roles to contribute to high-impact products.
