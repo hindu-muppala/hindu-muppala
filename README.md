@@ -1,1 +1,8 @@
-Computer Science student specializing in full-stack development and backend engineering, with hands-on experience in Django, React.js, REST APIs, SQL/NoSQL databases, and real-time systems using Socket.IO. Built collaborative and secure web applications and AI-based systems, with internship exposure to enterprise tools, Agile workflows, and database-driven solutions. Actively seeking entry-level software engineering roles to contribute to high-impact products.
+Hi, I’m a Software Engineer who believes curiosity opens new ways to solve problems.
+
+I enjoy building clean, user-friendly applications and continuously improving my skills through hands-on projects. I love exploring how systems work under the hood and finding smarter, more efficient solutions.
+
+🛠️ Tech Stack:
+HTML5 | CSS3 | JavaScript | React.js | Docker | Git | GitHub | JQuery | AWS | Spacy | Bash Scriptimg | Linux | SQLite | MongoDB 
+
+Outside of coding, you’ll find me jogging — it helps me reset, think clearly, and come back stronger to solve the next challenge.
