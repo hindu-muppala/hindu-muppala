@@ -1,5 +1,7 @@
 Hi, I’m a Software Engineer who believes curiosity opens new ways to solve problems.
 
+My interests in Blockchain, AI, Cybersecurity.
+
 I enjoy building clean, user-friendly applications and continuously improving my skills through hands-on projects. I love exploring how systems work under the hood and finding smarter, more efficient solutions.
 
 🛠️ Tech Stack:
