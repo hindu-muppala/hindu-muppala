@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hindu Muppala 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Aspiring+Data+Scientist+%26+Analyst;Open+to+Junior+Data+Scientist+Roles;Open+to+Associate+Software+Engineer+Roles;Open+to+Forward+Deployed+Engineer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Aspiring+Data+Scientist+%26+Analyst;Open+to+Junior+Data+Scientist+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,11 +54,6 @@ https://hindu-muppala.github.io/protfolio/
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Core concepts:** Supervised & Unsupervised Learning • Regression & Classification • Clustering • Time Series Basics • NLP • Deep Learning • Hyperparameter Tuning
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
