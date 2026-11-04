@@ -13,7 +13,7 @@
 
 ## 🎯 What I'm Looking For
 
-I'm actively seeking opportunities as an **Associate Software Engineer** or **Forward Deployed Engineer**, where I can build real-world solutions, work closely with users, and grow alongside a passionate team.
+I'm actively seeking opportunities as an Junior Data Scientist or Analyst Roles.
 
 ---
 
@@ -58,4 +58,4 @@ https://hindu-muppala.github.io/protfolio/
   <a href="mailto:hindumuppala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center">✨ Looking forward to joining a great team! ✨</h3>
+<h3 align="center">✨ Looking forward to joining team! ✨</h3>
