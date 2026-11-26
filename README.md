@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Hindu Muppala 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Aspiring+Data+Scientist+%26+Analyst;Open+to+Junior+Data+Scientist+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/📊%20Open%20to%20Work-Junior%20Data%20Scientist-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-Associate%20Software%20Engineer-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠️%20Open%20to%20Work-Forward%20Deployed%20Engineer-blue?style=for-the-badge" />
